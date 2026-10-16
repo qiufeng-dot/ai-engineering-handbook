@@ -63,4 +63,13 @@ ReAct → Plan-and-Solve → ReWOO → LLMCompiler → Self-Refine → Reflexion
 
 如果某篇帮助你理解了一个机制，欢迎 Star 收藏这份阅读目录，或把那篇文章分享给正在解决同一问题的人。
 
+## CSDN 专题阅读
+
+喜欢在博客中阅读、收藏和讨论，可以从这两篇贯通文章开始：
+
+- [Agent 设计别急着堆框架：用九篇论文看清规划、反思与搜索的边界](https://blog.csdn.net/2301_77000722/article/details/168128630)
+- [测试全绿，为什么还会出错？用一条折扣规则讲透黑盒、白盒与结果判断](https://blog.csdn.net/2301_77000722/article/details/168134600)
+
+完整讲义与阅读路线保留在本仓库；博客文章按主题串起机制、算例与失败边界。
+
 [CSDN：ai玄学](https://blog.csdn.net/2301_77000722)
